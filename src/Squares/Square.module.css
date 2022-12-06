@@ -1,0 +1,15 @@
+.square {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.name {
+  display: block;
+  background: white;
+  color: black;
+  padding: 8px 16px;
+}
